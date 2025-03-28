@@ -1,7 +1,7 @@
 ---
 home: true
 title: Welcome
-heroImage: /images/hero.png  # Change to your own image or keep it as is
+heroImage: /overfit.jpeg  # Change to your own image or keep it as is
 heroText: "Ming-Chieh Hu"
 tagline: "MSc Geomatics Student at TU Delft | Passionate about GIS & Remote Sensing"
 
