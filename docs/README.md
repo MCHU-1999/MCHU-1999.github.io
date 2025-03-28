@@ -1,7 +1,7 @@
 ---
 home: true
 title: About
-heroImage: /public/overfit.jpeg
+heroImage: /overfit.jpeg
 heroText: "Ming-Chieh Hu"
 tagline: "MSc Geomatics Student at TU Delft | Passionate about GIS & Remote Sensing"
 
