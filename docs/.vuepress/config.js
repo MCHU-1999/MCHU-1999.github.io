@@ -27,5 +27,11 @@ export default defineUserConfig({
     navbar: ['/', '/get-started', "/projects", "/research"],
   }),
 
+  themeConfig: {
+    heroImage: '/overfit.jpeg',  // Reference the image from the public folder
+    heroText: "Ming-Chieh Hu",
+    tagline: "MSc Geomatics | TU Delft",
+  },
+
   bundler: viteBundler(),
 })
