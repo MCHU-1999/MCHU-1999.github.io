@@ -6,6 +6,6 @@ export default navbar([
   {
     text: "My CV",
     icon: "book",
-    link: "https://github.com/MCHU-1999/MCHU-1999.github.io/blob/main/cv.pdf",
+    link: "https://MCHU-1999.github.io/assets/files/cv.pdf",
   },
 ]);
