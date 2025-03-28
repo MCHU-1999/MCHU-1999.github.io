@@ -1,7 +1,7 @@
 ---
 home: true
-title: About
-heroImage: /overfit.jpeg
+title: Welcome
+heroImage: /images/hero.png  # Change to your own image or keep it as is
 heroText: "Ming-Chieh Hu"
 tagline: "MSc Geomatics Student at TU Delft | Passionate about GIS & Remote Sensing"
 
@@ -27,7 +27,7 @@ features:
   - title: Open Source & Development
     details: Contributing to geospatial projects and leveraging Python, JavaScript, and web technologies.
 
-footer: "© 2025 Ming-Chieh Hu"
+footer: "© 2025 Ming-Chieh Hu | Hosted on GitHub Pages"
 ---
 
 Welcome to my personal site! Here, you'll find my **projects, research, and coursework** related to **geomatics, GIS, and remote sensing**. Feel free to explore and connect with me. 🚀
