@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "./logo.svg",
 
-  repo: "https://github.com/MCHU-1999?tab=repositories",
+  repo: "https://github.com/MCHU-1999/MCHU-1999.github.io",
 
   docsDir: "src",
 
