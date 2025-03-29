@@ -23,28 +23,28 @@ This course covered comprehensive aspects of spatial database management systems
 
 ### Lab 1: Data Modeling with UML
 Created Entity-Relationship diagrams using UML notation to model spatial data relationships and object hierarchies. Translated conceptual geographic data models into structured database schemas, establishing the foundation for spatial database design.
-[View report](/files/gdbms/geo_1006_lab_1.pdf)
+[View report](https://MCHU-1999.github.io/files/gdbms/geo_1006_lab_1.pdf)
 
 ### Lab 2: Fundamental SQL Operations
 Practiced essential SQL query techniques including SELECT statements, WHERE conditions, table JOINs, and basic geometric functions (ST_Intersects, ST_Distance). Developed core skills for retrieving and filtering spatial data in PostgreSQL/PostGIS.
-[View report](/files/gdbms/geo_1006_lab_2.pdf)
+[View report](https://MCHU-1999.github.io/files/gdbms/geo_1006_lab_2.pdf)
 
 ### Lab 3: Advanced SQL Techniques
 Implemented complex query operations including nested subqueries, aggregate functions with GROUP BY clauses, and HAVING filters. Created multi-step spatial analyses using temporary tables and views to perform sophisticated data aggregation within the database.
-[View report](/files/gdbms/geo_1006_lab_3.pdf)
+[View report](https://MCHU-1999.github.io/files/gdbms/geo_1006_lab_3.pdf)
 
 ### Lab 4: Polygon Validity Analysis
 Applied PostGIS functions (ST_IsValid, ST_MakeValid) to identify and correct topological issues in polygon geometries according to OGC specifications. Learned techniques for resolving self-intersections, duplicate vertices, and other common validity problems.
-[View report](/files/gdbms/geo_1006_lab_4.pdf)
+[View report](https://MCHU-1999.github.io/files/gdbms/geo_1006_lab_4.pdf)
 
 ### Lab 5: Spatial Indexing Optimization
 Analyzed query performance with and without R-tree spatial indices. Used EXPLAIN ANALYZE to evaluate execution plans and optimize index parameters for different spatial data distributions, significantly improving database efficiency.
-[View report](/files/gdbms/geo_1006_lab_5.pdf)
+[View report](https://MCHU-1999.github.io/files/gdbms/geo_1006_lab_5.pdf)
 
 ### Lab 6: Network Routing Applications
 Implemented graph-based routing solutions using pgRouting extension with Dijkstra and A* algorithms. For both outdoor transportation networks and indoor navigation, handling turn restrictions and impedance factors.
-[View report](/files/gdbms/geo_1006_lab_6.pdf)
+[View report](https://MCHU-1999.github.io/files/gdbms/geo_1006_lab_6.pdf)
 
 ### Lab 7: Raster Data Management
 Explored techniques for storing and analyzing gridded data in PostGIS. Imported raster datasets, performed map algebra operations, and integrated raster-vector analysis workflows for managing terrain models and other continuous spatial phenomena.
-[View report](/files/gdbms/geo_1006_lab_7.pdf)
+[View report](https://MCHU-1999.github.io/files/gdbms/geo_1006_lab_7.pdf)
