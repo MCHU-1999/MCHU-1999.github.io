@@ -9,6 +9,7 @@ next: false
 # pageInfo: false
 editLink: false
 lastUpdated: false
+contributors: false
 ---
 
 ## Full Paper: A Survey of Croatia’s NSDI Performance: A Task-Based Assessment (work in progress)

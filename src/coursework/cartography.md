@@ -9,6 +9,7 @@ next: false
 # pageInfo: false
 editLink: false
 lastUpdated: false
+contributors: false
 ---
 
 ## GEO1002: Geographical Information Systems (GIS) and Cartography
