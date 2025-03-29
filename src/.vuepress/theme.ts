@@ -7,7 +7,7 @@ export default hopeTheme({
   hostname: "https://MCHU-1999.github.io",
 
   author: {
-    name: "Mr.Hope",
+    name: "MCHU",
     url: "https://MCHU-1999.github.io",
   },
 
@@ -125,7 +125,11 @@ export default hopeTheme({
     // },
 
     components: {
-      components: ["Badge", "VPCard"],
+      components: [
+        "Badge", 
+        "VPCard",
+        "PDF",
+      ],
     },
 
     // icon: {
