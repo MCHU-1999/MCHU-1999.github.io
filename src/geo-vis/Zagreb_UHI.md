@@ -69,3 +69,4 @@ This selection aligns with UHI mitigation strategies and the EU’s 3 Billion Tr
 :::
 
 ![Suggested_Plantable_area](/indoc_img/UHI/plantable_area.png "Suggested Plant-able area")
+![plantable_zoom_in](/indoc_img/UHI/plantable_zoom_in.png "Suggested Plant-able area (zoomed in)")
