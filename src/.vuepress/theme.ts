@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://MCHU-1999.github.io",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "./logo.svg",
 
   repo: "https://github.com/MCHU-1999?tab=repositories",
 
@@ -22,6 +22,8 @@ export default hopeTheme({
 
   // sidebar
   sidebar,
+
+  darkmode: "toggle", // or "switch", "auto", "enable", "disable"
 
   // footer: "Build with VuePress and GitHub Pages",
   copyright: "Copyright © 2025 Ming-Chieh Hu",
@@ -127,12 +129,12 @@ export default hopeTheme({
     },
 
     // icon: {
-    //   prefix: "fa-regular:",
+    //   prefix: "fa6-solid:",
     // },
     icon: {
       // keywords: "iconify", "fontawesome", "fontawesome-with-brands"
       assets: "iconify",
-      prefix: "lucide:",
+      prefix: "ant-design:",
     },
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA

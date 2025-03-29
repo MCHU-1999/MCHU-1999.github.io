@@ -3,5 +3,5 @@ node_modules/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/dist/
-
+favicon
 .DS_Store

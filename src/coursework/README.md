@@ -1,7 +1,7 @@
 ---
 title: Coursework
 index: false
-icon: book-open-text
+icon: folder-open-twotone
 
 breadcrumb: false
 prev: false

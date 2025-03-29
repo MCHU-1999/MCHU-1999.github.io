@@ -1,1 +1,38 @@
 // place your custom styles here
+.vp-hero-info-wrapper {
+    min-height: 300px; /* Adjust height */
+    height: auto; /* Ensure it expands if needed */
+    padding: 60px 20px; /* Optional: Adjust spacing */
+}
+
+.vp-hero-info {
+    padding: 0px 20px;
+    width: 80%;
+}
+
+// .vp-highlight-wrapper {
+//     width: 80%;
+// }
+
+.vp-highlight {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    // height: 100vh; /* Makes it take the full viewport height */
+    text-align: center;
+    // padding: 0px 0px 40px 0px;
+    margin: -50px 0px 0px 0px;
+}
+
+.vp-highlights {
+    margin: 0px 0px 0px 20px;
+}
+
+.vp-highlight-info-wrapper {
+    padding: 60px 20px;
+    // margin: 0px 200px;
+}
+
+.vp-highlight-info {
+    width: 80%;
+}

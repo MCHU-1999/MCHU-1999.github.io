@@ -12,7 +12,7 @@ export default sidebar({
     // },
     {
       text: "Coursework",
-      icon: "book-open-text",
+      icon: "folder-open-twotone",
       prefix: "coursework/",
       link: "coursework/",
       children: "structure",
