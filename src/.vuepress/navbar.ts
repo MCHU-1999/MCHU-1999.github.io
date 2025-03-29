@@ -3,6 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   // "/",
   "/coursework/",
+  "/geo-vis/",
   {
     text: "My CV",
     icon: "book",

@@ -42,25 +42,35 @@ highlights:
       background-attachment: fixed
     description: Former software engineer with strong programming background now specializing in geospatial data analysis. Skilled in data structures, algorithms, and full-stack development for creating visual analytics solutions. I'm excited by the opportunity to see how geospatial data becomes a product that directly benefits decision-makers in operations. I'm particularly interested in:<br/>
     highlights:
-      - title: Learning-based Solutions
-        icon: open-a-i-filled
-        details: Object Detection, Change Detection, Outline Extraction, Surface Reconstruction...
-        link: https://theme-hope.vuejs.press/guide/interface/darkmode.html
+      - title: Computer Vision and Photogrammetry
+        icon: camera-twotone
+        details: Camera Calibration, Triangulation, Pointcloud Reconstruction, Bundle Adjustment...
+        link: https://github.com/MCHU-1999/geo-1016-assignments
+
+      # - title: Learning-based Solutions
+      #   icon: open-a-i-filled
+      #   details: Object Detection, Change Detection, Outline Extraction and Surface Reconstruction
+      #   link: https://github.com/MCHU-1999/geo-5017-assignments
+
+      - title: Computational Geometry
+        icon: codepen-outlined
+        details: Digital Terrain Model, Shape Detection, Delunay Triangulation...
+        link: https://github.com/MCHU-1999/geo-1015-assignments
 
       - title: Geo-data Visualization
         icon: dot-chart-outlined
         details: Analytical Map Making and Cartography
-        link: https://theme-hope.vuejs.press/guide/interface/theme-color.html
+        link: geo-vis/
 
-      - title: Geo-web Technology
-        icon: cloud-twotone
-        details: Geo-spatial Data Driven Web-app Development
-        link: https://theme-hope.vuejs.press/guide/interface/others.html
+      # - title: Geo-web Technology
+      #   icon: cloud-twotone
+      #   details: Geo-spatial Data Driven Web-app Development
+      #   link: /
 
-      - title: Automating and Pipelining
-        icon: kubernetes-outlined
-        details: Workflow Integration, Cloud Deployment and Procedure Pipelining
-        link: https://theme-hope.vuejs.press/guide/interface/others.html
+      # - title: Workflow Automating and Pipelining
+      #   icon: kubernetes-outlined
+      #   details: Workflow Integration, Cloud Deployment and Procedure Pipelining
+      #   link: https://theme-hope.vuejs.press/guide/interface/others.html
 ---
 ### 
 ## About
@@ -81,3 +91,11 @@ I have an unorthodox academic background, transitioning from electronics enginee
 **B.S. in Electronics Engineering**  
 *Sep 2017 — Jun 2021*  
 *Innovative Technology and Art Program (Sep 2019 — Jun 2021)*
+
+## Technical Skills
+
+- Programming: C, C++, JavaScript, Python, HTML, CSS, SQL
+- Frameworks: LangChain, PyTorch, Node.js, Express, React, CI/CD, GCP, K8s, MongoDB, postgreSQL
+- Software: QGIS, FME, Rhinoceros 3D, Grasshopper 3D, Photoshop, Illustrator, Indesign, Figma, Git
+- TOEFL: 102/120 (R: 29, L: 28, S: 22, W: 23)
+- Relevant Coursework: Algorithms, Computer Organization, Data Structures, OOP, Intro to Machine Learning, Electronics Lab, Embedded System Lab, Calculus I-II, Differential Equations, Probability and Statistics, Linear Algebra, Computational Aesthetics, Design Computation and Human-Machine Interface, Sensing Technologies, Geographical Information Systems and Cartography, Positioning and Location Awareness, Geo Database Management Systems, Digital Terrain Modelling
