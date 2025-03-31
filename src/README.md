@@ -94,8 +94,8 @@ I have an unorthodox academic background, transitioning from electronics enginee
 
 ## Technical Skills
 
-- Programming: C, C++, JavaScript, Python, HTML, CSS, SQL
-- Frameworks: LangChain, PyTorch, Node.js, Express, React, CI/CD, GCP, K8s, MongoDB, postgreSQL
-- Software: QGIS, FME, Rhinoceros 3D, Grasshopper 3D, Photoshop, Illustrator, Indesign, Figma, Git
-- TOEFL: 102/120 (R: 29, L: 28, S: 22, W: 23)
-- Relevant Coursework: Algorithms, Computer Organization, Data Structures, OOP, Intro to Machine Learning, Electronics Lab, Embedded System Lab, Calculus I-II, Differential Equations, Probability and Statistics, Linear Algebra, Computational Aesthetics, Design Computation and Human-Machine Interface, Sensing Technologies, Geographical Information Systems and Cartography, Positioning and Location Awareness, Geo Database Management Systems, Digital Terrain Modelling
+- **TOEFL:** 102/120 (R: 29, L: 28, S: 22, W: 23)
+- **Programming:** C, C++, JavaScript, Python, HTML, CSS, SQL
+- **Frameworks:** LangChain, PyTorch, Node.js, Express, React, CI/CD, GCP, K8s, MongoDB, postgreSQL
+- **Software:** QGIS, FME, Rhinoceros 3D, Grasshopper 3D, Photoshop, Illustrator, Indesign, Figma, Git
+- **Relevant Coursework:** Algorithms, Computer Organization, Data Structures, OOP, Intro to Machine Learning, Electronics Lab, Embedded System Lab, Calculus I-II, Differential Equations, Probability and Statistics, Linear Algebra, Computational Aesthetics, Design Computation and Human-Machine Interface, Sensing Technologies, Geographical Information Systems and Cartography, Positioning and Location Awareness, Geo Database Management Systems, Digital Terrain Modelling
