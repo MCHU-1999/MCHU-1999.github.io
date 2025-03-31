@@ -12,7 +12,8 @@ lastUpdated: false
 contributors: false
 ---
 
-## Full Paper: A Survey of Croatia’s NSDI Performance: A Task-Based Assessment (work in progress)
+## A Survey of Croatia’s NSDI Performance: A Task-Based Assessment
+[Full Paper](https://MCHU-1999.github.io/files/gdbms/geo_1006_lab_1.pdf)
 
 In this research project, we tackled the challenging question of "How many trees can be planted in Croatia to mitigate the urban heat island effect?" as part of Europe's ambitious [3 Billion Trees Initiative](https://forest.eea.europa.eu/policy-and-reporting/3-billion-trees). Our work required overcoming significant obstacles related to Croatia's underdeveloped National Spatial Data Infrastructure (NSDI). The available geospatial data suffered from inconsistencies, gaps, and quality issues, forcing us to develop several workarounds and custom solutions. Through extensive data cleaning, validation, and integration efforts, we not only addressed our primary research question but also generated several valuable byproducts. These included fraction of vegetation data, sky view factor, improved municipal boundaries, ...etc. Ultimately, our methodology provides actionable data for policymakers while contributing to climate change mitigation efforts.
 
