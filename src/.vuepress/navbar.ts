@@ -2,9 +2,9 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   // "/",
-  "/comp_geom/",
-  "/coursework/",
+  "/comp-geom/",
   "/geo-vis/",
+  "/coursework/",
   {
     text: "My CV",
     icon: "book",

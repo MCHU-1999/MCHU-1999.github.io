@@ -11,6 +11,13 @@ export default sidebar({
     //   children: "structure",
     // },
     {
+      text: "Computational Geometry",
+      icon: "folder-open-twotone",
+      prefix: "comp-geom/",
+      link: "comp-geom/",
+      children: "structure",
+    },
+    {
       text: "Geo-visualization",
       icon: "folder-open-twotone",
       prefix: "geo-vis/",
@@ -18,7 +25,7 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "Coursework",
+      text: "Other Coursework",
       icon: "folder-open-twotone",
       prefix: "coursework/",
       link: "coursework/",
