@@ -55,7 +55,7 @@ highlights:
       - title: Computational Geometry
         icon: codepen-outlined
         details: Digital Terrain Model, Shape Detection, Delunay Triangulation...
-        link: https://github.com/MCHU-1999/geo-1015-assignments
+        link: comp-geom/
 
       - title: Geo-data Visualization
         icon: dot-chart-outlined

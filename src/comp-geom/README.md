@@ -1,5 +1,5 @@
 ---
-title: Other Coursework
+title: Computational Geometry Works
 index: false
 icon: folder-open-twotone
 

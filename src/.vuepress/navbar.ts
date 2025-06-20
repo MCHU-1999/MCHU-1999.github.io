@@ -2,6 +2,7 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   // "/",
+  "/comp_geom/",
   "/coursework/",
   "/geo-vis/",
   {
