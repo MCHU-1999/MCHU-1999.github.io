@@ -12,7 +12,7 @@ lastUpdated: false
 contributors: false
 ---
 
-## Course Content
+## [Course Content](https://3d.bk.tudelft.nl/courses/backup/geo1015/2024/)
 Digital terrain models (terrains) are computer representations of the elevation of a given area, and they play an important role in understanding and analysing our built environment. They are the necessary input for several applications (eg flood modelling, visibility, effects of climate change on the north poles, etc.), and they are also relevant for studying for seabed and other planets.
 
 The course provides an overview of the fundamentals of digital terrain modelling (DTM):
@@ -26,12 +26,10 @@ The course provides an overview of the fundamentals of digital terrain modelling
 - techniques to handle and process massive datasets
 - The course has both a theoretical part and a practical part where students reconstruct, manipulate, process, and extract information from terrains.
 
-All the labs are programming tasks (to be done with the Python or C++ programming languages), and other open-source libraries and software are used.
+All the labs are programming tasks (to be done with the Python or C++ programming languages), and other open-source libraries and software are used. 
 
-
-
-### A1
-[Full task description](https://3d.bk.tudelft.nl/courses/backup/geo1015/2024/hw/01/)
+### [Checkout my lab repository](https://github.com/MCHU-1999/geo-1015-assignments)
+### A1: [Tanaka contours](https://3d.bk.tudelft.nl/courses/backup/geo1015/2024/hw/01/)
 
 The aim of the assignment is to extract the isolines from a triangulated TIN, and structure them so that we can easily create Tanaka contours with QGIS.
 
@@ -43,9 +41,8 @@ Namely, to develop a Python program that:
 3. creates the Delaunay triangulation (DT) of the samples;
 4. outputs a GeoJSON of the contours and the DT (in PLY format).
 
-### A2
-[Full task description](https://3d.bk.tudelft.nl/courses/backup/geo1015/2024/hw/02/)
 
+### A2: [Constructing DTMs from AHN4](https://3d.bk.tudelft.nl/courses/backup/geo1015/2024/hw/02/)
 The aim of the assignment is to create three DTMs from an input AHN(4) lidar dataset (using different methods). I have developed a Python program that:
 
 1. reads a AHN4 LAZ file;
@@ -54,9 +51,7 @@ The aim of the assignment is to create three DTMs from an input AHN(4) lidar dat
 4. output a gridded DTM by first extracting the ground with the GFTIN algorithm and then interpolate with the linear in TIN method
 
 
-### A3
-[Full task description](https://3d.bk.tudelft.nl/courses/backup/geo1015/2024/hw/03/)
-
+### A3: [The best shape detection algorithm is...](https://3d.bk.tudelft.nl/courses/backup/geo1015/2024/hw/03/)
 The aim of this assignment is to implement and compare the three algorithms for shape detection described in the book (Section 11.4:
 1. RANSAC,
 2. region growing, and 
