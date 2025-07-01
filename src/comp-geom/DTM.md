@@ -12,6 +12,24 @@ lastUpdated: false
 contributors: false
 ---
 
+## Course Content
+Digital terrain models (terrains) are computer representations of the elevation of a given area, and they play an important role in understanding and analysing our built environment. They are the necessary input for several applications (eg flood modelling, visibility, effects of climate change on the north poles, etc.), and they are also relevant for studying for seabed and other planets.
+
+The course provides an overview of the fundamentals of digital terrain modelling (DTM):
+
+- different representations of terrains: TINs, rasters, point clouds, contour lines
+- reconstruction of terrains from different sources (LiDAR, photogrammetry, InSAR)
+- spatial interpolation methods
+- conversion between different DTM representations
+- processing of DTM: outlier detection, filtering, segmentation, and identification and classification of objects
+- applications, eg runoff modelling, watersheds computations, visibility
+- techniques to handle and process massive datasets
+- The course has both a theoretical part and a practical part where students reconstruct, manipulate, process, and extract information from terrains.
+
+All the labs are programming tasks (to be done with the Python or C++ programming languages), and other open-source libraries and software are used.
+
+
+
 ### A1
 [Full task description](https://3d.bk.tudelft.nl/courses/backup/geo1015/2024/hw/01/)
 
@@ -28,6 +46,22 @@ Namely, to develop a Python program that:
 ### A2
 [Full task description](https://3d.bk.tudelft.nl/courses/backup/geo1015/2024/hw/02/)
 
+The aim of the assignment is to create three DTMs from an input AHN(4) lidar dataset (using different methods). I have developed a Python program that:
+
+1. reads a AHN4 LAZ file;
+2. output a gridded DTM by interpolating, with linear in TIN interpolation, the points classified as ground
+3. output a gridded DTM by interpolating, with Laplace interpolation, the points classified as ground
+4. output a gridded DTM by first extracting the ground with the GFTIN algorithm and then interpolate with the linear in TIN method
+
+
 ### A3
 [Full task description](https://3d.bk.tudelft.nl/courses/backup/geo1015/2024/hw/03/)
 
+The aim of this assignment is to implement and compare the three algorithms for shape detection described in the book (Section 11.4:
+1. RANSAC,
+2. region growing, and 
+3. Hough transform). 
+
+The input point cloud will be a subset of AHN where the ground and the vegetation have been removed, you only have the points representing the BK-City building. The final result has to be written to an ASCII PLY file (see below).
+
+We also made a report to document our implementations and compare them, [checkout the report?](https://github.com/MCHU-1999/geo-1015-hw03/tree/main/report)
