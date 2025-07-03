@@ -75,7 +75,9 @@ highlights:
 ### 
 ## About
 
-I have an unorthodox academic background, transitioning from electronics engineering to architectural design, and eventually returning to a career in software engineering. Through this journey, I realized that programming is just like any other creative process, where the program itself becomes my creation. Now I’m pursuing a master’s degree in geomatics at TU Delft, aiming to pivot my career towards a geospatial software specialist, combining my love for the built environment with my passion for software engineering. News: I'm now working in [Readar](https://readar.com/en/#solution) as an intern:)) 
+I have an unorthodox academic background, transitioning from electronics engineering to architectural design, and eventually returning to a career in software engineering. Through this journey, I realized that programming is just like any other creative process, where the program itself becomes my creation. Now I’m pursuing a master’s degree in geomatics at TU Delft, aiming to pivot my career towards a geospatial software specialist, combining my love for the built environment with my passion for software engineering. 
+
+News: I'm now working in [Readar](https://readar.com/en/#solution) as an intern:)) 
 
 ## Education
 
