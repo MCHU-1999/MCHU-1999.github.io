@@ -59,4 +59,4 @@ The aim of this assignment is to implement and compare the three algorithms for 
 
 The input point cloud will be a subset of AHN where the ground and the vegetation have been removed, you only have the points representing the BK-City building. The final result has to be written to an ASCII PLY file (see below).
 
-We also made a report to document our implementations and compare them, [checkout the report?](https://github.com/MCHU-1999/geo-1015-hw03/tree/main/report)
+We also made a report to document our implementations and compare them, [checkout the report?](https://github.com/MCHU-1999/geo-1015-hw03/blob/main/report/report_compressed.pdf)
