@@ -33,7 +33,7 @@ All the labs are programming tasks (to be done with the Python or C++ programmin
 
 The aim of the assignment is to extract the isolines from a triangulated TIN, and structure them so that we can easily create Tanaka contours with QGIS.
 
-The Tanaka contours method, named after the cartographer Kitiro Tanaka who formalised it in 1950, is a visualisation method to shade isolines to give a better impression of the relief of a terrain (more information on Wikipedia). The lines are illuminated/white when facing the source of light, and shaded/black when not. As is usually the case with the visualisation of terrains, we use the North-West direction as the source of light (why that is).
+The Tanaka contours method, named after the cartographer Kitiro Tanaka who formalised it in 1950, is a visualisation method to shade isolines to give a better impression of the relief of a terrain (more information on Wikipedia). The lines are illuminated/white when facing the source of light, and shaded/black when not. As is usually the case with the visualisation of terrains, we use the North-West direction as the source of light.
 
 Namely, to develop a Python program that:
 1. reads a gridded DTM (in GeoTIFF format);
@@ -57,6 +57,5 @@ The aim of this assignment is to implement and compare the three algorithms for 
 2. region growing, and 
 3. Hough transform). 
 
-The input point cloud will be a subset of AHN where the ground and the vegetation have been removed, you only have the points representing the BK-City building. The final result has to be written to an ASCII PLY file (see below).
+We made a pretty-nice report to document our implementations and compare them. [View report](https://MCHU-1999.github.io/files/geo-1015-hw3.pdf)
 
-We also made a report to document our implementations and compare them, [checkout the report?](https://github.com/MCHU-1999/geo-1015-hw03/blob/main/report/report_compressed.pdf)
