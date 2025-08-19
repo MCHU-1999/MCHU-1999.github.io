@@ -3,6 +3,11 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   // "/",
   {
+    text: "Internship",
+    icon: "folder-open-twotone",
+    link: "/intern/",
+  },
+  {
     text: "Computational-geometry",
     icon: "folder-open-twotone",
     link: "/comp-geom/",

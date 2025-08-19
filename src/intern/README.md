@@ -1,5 +1,5 @@
 ---
-title: Other Coursework
+title: Internship @Readar
 index: false
 icon: folder-open-twotone
 

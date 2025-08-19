@@ -12,15 +12,12 @@ lastUpdated: false
 contributors: false
 ---
 
-
-# Hybrid Computational Approaches for Raster-Vector Processing
-*A deep dive into adaptive method selection and the surprising power of spatial partitioning*
-
----
-
 ## TL;DR
 
 We developed a hybrid algorithm that adaptively switches between Vector-Raster and Raster-Raster processing based on local polygon density. While the hybrid approach worked as expected, the real game-changer was discovering that **simple spatial tiling alone** delivered 4.5× performance improvements—often outperforming our sophisticated algorithmic optimizations.
+
+*Full technical details available in our research paper.*
+[View report](https://MCHU-1999.github.io/files/readar/readar_task1.pdf)
 
 
 ## The Problem
@@ -129,6 +126,3 @@ Performance peaked around 16×16 tiling (≈7,500×7,500 pixels). Beyond 32×32,
 While we set out to prove that algorithmic hybridization could improve geospatial processing, we discovered that **smart spatial organization** might be even more important. Our hybrid method works, but the real lesson is simpler: **sometimes the biggest wins come from how you slice the problem, not how you solve each slice.**
 
 For the geomatics community, this suggests we should invest as much effort in spatial data structures and partitioning strategies as we do in developing new algorithms. The infrastructure often matters more than the implementation.
-
-*Full technical details available in our research paper.*
-[View report](https://MCHU-1999.github.io/files/readar/readar_task1.pdf)

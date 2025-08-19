@@ -11,6 +11,13 @@ export default sidebar({
     //   children: "structure",
     // },
     {
+      text: "Internship",
+      icon: "folder-open-twotone",
+      prefix: "intern/",
+      link: "intern/",
+      children: "structure",
+    },
+    {
       text: "Computational Geometry",
       icon: "folder-open-twotone",
       prefix: "comp-geom/",
