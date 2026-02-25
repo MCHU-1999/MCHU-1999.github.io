@@ -12,20 +12,20 @@ tagline: MSc. Geomatics @ TU Delft<br/> Geo-spatial software developer<br/> Casu
 actions:
   - text: LinkedIn
     icon: linkedin-filled
-    link: https://www.linkedin.com/in/ming-chieh-hu-a516a5182/
+    link: https://www.linkedin.com/in/ming-chieh-hu
     type: primary
 
   - text: GitHub
     icon: github-filled
     link: https://github.com/MCHU-1999
 
-  - text: Behance
-    icon: behance-square-filled
-    link: https://www.behance.net/jerryee0651ad
+  # - text: Behance
+  #   icon: behance-square-filled
+  #   link: https://www.behance.net/jerryee0651ad
 
-  - text: Email
-    icon: mail-twotone
-    link: mailto:m.hu-5@student.tudelft.nl
+  # - text: Email
+  #   icon: mail-twotone
+  #   link: mailto:m.hu-5@student.tudelft.nl
 
 highlights:
   # - header: About
@@ -98,6 +98,6 @@ News: I'm now working in [Readar](https://readar.com/en/#solution) as an intern:
 
 - **TOEFL:** 102/120 (R: 29, L: 28, S: 22, W: 23)
 - **Programming:** C, C++, JavaScript, Python, HTML, CSS, SQL
-- **Frameworks:** LangChain, PyTorch, Node.js, Express, React, CI/CD, GCP, K8s, MongoDB, postgreSQL
-- **Software:** QGIS, FME, Rhinoceros 3D, Grasshopper 3D, Photoshop, Illustrator, Indesign, Figma, Git
-- **Relevant Coursework:** Algorithms, Computer Organization, Data Structures, OOP, Intro to Machine Learning, Electronics Lab, Embedded System Lab, Calculus I-II, Differential Equations, Probability and Statistics, Linear Algebra, Computational Aesthetics, Design Computation and Human-Machine Interface, Sensing Technologies, Geographical Information Systems and Cartography, Positioning and Location Awareness, Geo Database Management Systems, Digital Terrain Modelling
+- **Libraries:** PyTorch, Express, React, CGAL, GDAL, Rasterio
+- **Software:** QGIS, GRASS GIS, FME, Rhinoceros 3D, Grasshopper 3D, Git, GCP, MongoDB, PostgreSQL, Photoshop, Illustrator, Indesign, Figma
+- **Relevant Coursework:** Algorithms, Data Structures, OOP, Machine Learning, Calculus I-II, Probability and Statistics, Linear Algebra, Sensing Technologies, GIS and Cartography, Geo Database Management Systems, Digital Terrain Modelling, Photogrammetry and 3D Computer Vision, Wind Modelling
