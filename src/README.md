@@ -19,9 +19,9 @@ actions:
     icon: github-filled
     link: https://github.com/MCHU-1999
 
-  # - text: Behance
-  #   icon: behance-square-filled
-  #   link: https://www.behance.net/jerryee0651ad
+  - text: Behance
+    icon: behance-square-filled
+    link: https://www.behance.net/jerryee0651ad
 
   # - text: Email
   #   icon: mail-twotone
